@@ -215,6 +215,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Oxygent
+cache_dir/
+
 # Logs
 logs
 *.log
